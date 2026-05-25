@@ -154,7 +154,7 @@ Os arquivos JavaScript compilados serão gerados na pasta `dist`.
 Após a compilação, execute:
 
 ```bash
-node dist/index.js
+node dist/main.js
 ```
 
 > Dependendo da estrutura do projeto, o arquivo principal também pode estar localizado diretamente na raiz.
